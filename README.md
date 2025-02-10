@@ -1,4 +1,4 @@
-# 🔥Visitor Count:
+# 🔥Visitors Count:
 ![Visitor Count](https://profile-counter.glitch.me/{Aditya-7-Yadav}/count.svg)
 # 💫 About Me:
 2nd Year CSE Student <br>Passionate about web development.<br>Learning to make cool projects using html, css, tailwind, react, nextjs.<br>
