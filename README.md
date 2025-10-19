@@ -1,7 +1,7 @@
 # 🔥Visitors Count:
 ![Visitor Count](https://profile-counter.glitch.me/{Aditya-7-Yadav}/count.svg)
 # 💫 About Me:
-2nd Year CSE Student <br>Passionate about web development.<br>Learning to make cool projects using html, css, tailwind, react, nextjs,nodejs,expressjs,mongodb.<br>
+3rd Year CSE Student <br>Passionate about web development.<br>Learning to make cool projects using html, css, tailwind, react, nextjs,nodejs,expressjs,mongodb.<br>
 
 
 ## 🌐 Socials:
@@ -22,3 +22,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditya-7-Yadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
