@@ -1,3 +1,4 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 # 🔥Visitors Count:
 ![Visitor Count](https://profile-counter.glitch.me/{Aditya-7-Yadav}/count.svg)
 # 💫 About Me:
@@ -22,4 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditya-7-Yadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
