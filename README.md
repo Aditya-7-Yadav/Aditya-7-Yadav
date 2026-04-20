@@ -1,6 +1,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 # 🔥Visitors Count:
 ![Visitor Count](https://profile-counter.glitch.me/{Aditya-7-Yadav}/count.svg)
+(https://komarev.com/ghpvc/?username=Aditya-7-Yadav)
 # 💫 About Me:
 3rd Year CSE Student <br>Passionate about web development.<br>Learning to make cool projects using html, css, tailwind, react, typescript,nextjs,nodejs,expressjs,mongodb.<br>
 
