@@ -20,12 +20,6 @@
 
 <br>
 
-<h2 align="center">Contributions Graph</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-7-Yadav/Aditya-7-Yadav/output/github-snake-dark.svg" alt="Snake animation" width="100%">
-</div>
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
